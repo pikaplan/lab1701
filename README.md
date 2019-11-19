@@ -9,14 +9,14 @@ In this repository you can find all material related to this hands-on lesson.
 
 ### Subnet Calculators
 * [To understand subnet masks](http://www.subnet-calculator.com/)
-* [To view all subnets] https://www.calculator.net/ip-subnet-calculator.html
-* [To browse previous/next subnet] https://www.tunnelsup.com/subnet-calculator/
+* [To view all subnets](https://www.calculator.net/ip-subnet-calculator.html)
+* [To browse previous/next subnet](https://www.tunnelsup.com/subnet-calculator/)
 
 ### Web Networking Tools 
 * [Show IP Address](https://whatismyipaddress.com/)
 * [Reverse DNS](https://www.whatismyip.com/reverse-dns-lookup/)
 * [DNS Lookup and Performance](https://www.dnswatch.info/)
-* [MX Tools]   https://mxtoolbox.com/SuperTool.aspx?action=mx%3ait.teithe.gr&run=toolpage
+* [MX Tools](https://mxtoolbox.com/SuperTool.aspx?action=mx%3ait.teithe.gr&run=toolpage)
 
 
 
