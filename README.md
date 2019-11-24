@@ -1,5 +1,7 @@
+![alt text](https://www.ihu.gr/wp-content/uploads/2019/11/ihu-en-logo-created20191112a.png)
+
 # Lab 1701 - Computer Networks 
-## Department of Information and Electronic Engineering - International Hellenic University (IHU)
+## Department of Information and Electronic Engineering (IEE) - International Hellenic University (IHU)
 In this repository you can find all material related to this hands-on lesson.
 * Required tasks for students in each Tutorial 1-10.
 * Supplementary helping material for each Tutorial 1-10.
@@ -8,8 +10,9 @@ In this repository you can find all material related to this hands-on lesson.
 * Focus points on the theoretical part of 1701 lesson and the book ["Δικτύωση Υπολογιστών - Προσέγγιση από Πάνω προς τα Κάτω"](https://www.mgiurdas.gr/biblia/diktyosi-ypologiston-7i-ekdosi) (Greek translation of the book from [Κurose & Ross](https://www.pearson.com/us/higher-education/product/Kurose-Computer-Networking-A-Top-Down-Approach-6th-Edition/9780132856201.html).
 
 ## Online Documentation
-* [L4 - Transport Layer Protocols] (https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers)
-* [L3 - Network Layer Protocols (EtherTypes)] (https://en.wikipedia.org/wiki/EtherType)
+### Codes for Protocol Fields
+* [L4 - Transport Layer Protocols](https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers)
+* [L3 - Network Layer Protocols (EtherTypes)](https://en.wikipedia.org/wiki/EtherType)
 
 ## Online Tools
 ### Subnet Calculators
@@ -26,24 +29,19 @@ In this repository you can find all material related to this hands-on lesson.
 
 
 ### Frame Analyzers
-* [Encapsulation Analyzer](https://hpd.gasmi.net/)
+* [PDU Encapsulation Analyzer](https://hpd.gasmi.net/)
 
-### Number Systems Conversion Tools
+### Conversion Tools for Number Systems
 * [Ascii, Hex, Bin, Base64 Multi-Converter](https://www.branah.com/ascii-converter)
 
 ## Windows Networking Software
-
-## Lab Essentials
+### Lab Essentials
 * [Wireshark](https://www.wireshark.org/)
 * [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 
-
-
-
-
-## Windows Network Tools
+### Windows Network Tools
 * [FileZilla FTP Client for Windows](https://filezilla-project.org/download.php?platform=win64)
-* [Putty SSH/Telnet Client for Windpws](https://www.putty.org/)
+* [Putty SSH/Telnet Client for Windows](https://www.putty.org/)
 * [ISC Bind Suite - DIG Tool](https://www.isc.org/download/)
 * [NetPipe for Windows](https://sourceforge.net/projects/netpipe/)
 * [Microsoft SysInternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
