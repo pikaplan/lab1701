@@ -44,6 +44,7 @@ In this repository you can find all material related to this hands-on lesson.
 * [Putty SSH/Telnet Client for Windows](https://www.putty.org/)
 * [ISC Bind Suite - DIG Tool](https://www.isc.org/download/)
 * [NetPipe for Windows](https://sourceforge.net/projects/netpipe/)
+* [HxD Hex Editor for Windows](https://mh-nexus.de/en/hxd/)
 * [Microsoft SysInternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 
 
