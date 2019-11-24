@@ -1,7 +1,7 @@
 ![alt text](https://www.ihu.gr/wp-content/uploads/2019/11/ihu-en-logo-created20191112a.png)
 
 # Lab 1701 - Computer Networks 
-## Department of Information and Electronic Engineering - International Hellenic University (IHU)
+## Department of Information and Electronic Engineering (IEE) - International Hellenic University (IHU)
 In this repository you can find all material related to this hands-on lesson.
 * Required tasks for students in each Tutorial 1-10.
 * Supplementary helping material for each Tutorial 1-10.
