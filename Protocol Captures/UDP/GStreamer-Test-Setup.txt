@@ -1,0 +1,22 @@
+--------------------------------------------------------
+				Video Transmitter
+--------------------------------------------------------
+gst-launch-1.0 videotestsrc !  x264enc pass=qual quantizer=20 tune=zerolatency ! rtph264pay ! udpsink host=192.168.1.24 port=3000
+
+--------------------------------------------------------
+				Video Receiver (Windows)
+--------------------------------------------------------
+gst-launch-1.0 -e -v udpsrc port=3000 ! application/x-rtp, payload=96 ! rtpjitterbuffer ! rtph264depay ! avdec_h264 ! glimagesink
+
+--------------------------------------------------------
+				Video Receiver (Ubuntu)
+--------------------------------------------------------
+gst-launch-1.0 -e -v udpsrc port=3000 ! application/x-rtp, payload=96 ! rtpjitterbuffer ! rtph264depay ! avdec_h264 ! ximagesink
+
+
+--------------------------------------------------------
+				Original Test Video
+--------------------------------------------------------
+gst-launch-1.0 videotestsrc ! autovideosink
+
+
