@@ -31,8 +31,10 @@ In this repository you can find all material related to this hands-on lesson.
 ### Frame Analyzers
 * [PDU Encapsulation Analyzer](https://hpd.gasmi.net/)
 
-### Conversion Tools for Number Systems
+### Conversion Tools for Number Systems, Hex Editors
 * [Ascii, Hex, Bin, Base64 Multi-Converter](https://www.branah.com/ascii-converter)
+* [HexEd.it](https://hexed.it/?hl=en)
+
 
 ## Windows Networking Software
 ### Lab Essentials
