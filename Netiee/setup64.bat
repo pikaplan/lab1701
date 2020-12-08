@@ -1,0 +1,1 @@
+start /wait "" Anaconda3-2020.11-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=C:\Develop\Anaconda3
