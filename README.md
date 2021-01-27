@@ -7,7 +7,7 @@ In this repository you can find all material related to this hands-on lesson.
 * Supplementary helping material for each Unit 1-6.
 * Setup instructions for software used in the lab.
 * Pre-designed network models for Cisco Packet Tracer.
-* Focus points on the theoretical part of 1701 lesson and the book ["Δικτύωση Υπολογιστών - Προσέγγιση από Πάνω προς τα Κάτω"](https://www.mgiurdas.gr/biblia/diktyosi-ypologiston-7i-ekdosi) (Greek translation of the book from [Κurose & Ross](https://www.pearson.com/us/higher-education/product/Kurose-Computer-Networking-A-Top-Down-Approach-6th-Edition/9780132856201.html).
+* Focus points on the theoretical part of 1701 lesson and the book ["Δικτύωση Υπολογιστών - Προσέγγιση από Πάνω προς τα Κάτω"](https://www.mgiurdas.gr/biblia/diktyosi-ypologiston-7i-ekdosi) (Greek translation of the book from [Κurose & Ross](https://www.pearson.com/us/higher-education/product/Kurose-Computer-Networking-A-Top-Down-Approach-6th-Edition/9780132856201.html)).
 
 ## Online Documentation
 ### Codes for Protocol Fields
